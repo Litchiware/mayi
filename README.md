@@ -4,8 +4,8 @@
 
 # Table of contents
 
-* [October](/writings/10.13/)
-    * [13](/writings/10.13/)
-    * [15](/writings/10.15/)
-    * [17](/writings/10.17/)
+* [October](/writings/10.13/writing.md)
+    * [13](/writings/10.13/writing.md)
+    * [15](/writings/10.15/writing.md)
+    * [17](/writings/10.17/writing.md)
 
