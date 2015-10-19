@@ -8,4 +8,5 @@
     * [13](/writings/10.13/writing.md)
     * [15](/writings/10.15/writing.md)
     * [17](/writings/10.17/writing.md)
+    * [19](/writings/10.19/writing.md)
 
