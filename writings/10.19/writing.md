@@ -25,6 +25,9 @@ LiMing
 |改动句子|改动说明|
 |---|---|
 |grateful|gratitude是名词，此处应该用形容词|
+|kindness|friendly是副词，此处应该用名词|
+|for|“为...”应该用for|
 |have worked|此处应该用完成时，而不是用被动|
 |entering|since是介词，后面应该加动词的ing形式|
+|known|此处应该用动词过去分词|
 |for|名词或者动词ing形式前面应该用for|
