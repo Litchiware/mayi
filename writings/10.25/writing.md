@@ -32,3 +32,6 @@ Li Ming
 | back              | 拼写错误                                                                                 |
 | to give           | need sb to do sth                                                                        |
 | and               | 前后词性要一致，前面concern是名词，因此后面也应该用名词，willing的名词形式是willingness  |
+
+However, reality makes me very disappointed. I gave up many `job opportunities` `to` come `back` to realize my dream. 是不是可以改成：
+However, reality makes me very disappointed. I gave up many `job opportunities` and came `back` to realize my dream. 
