@@ -14,4 +14,5 @@
     * [25](/writings/10.25/writing.md)
     * [27](/writings/10.27/writing.md)
     * [29](/writings/10.29/writing.md)
+    * [31](/writings/10.31/writing.md)
 
