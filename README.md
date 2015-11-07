@@ -18,3 +18,4 @@
 * [November](/writings/11.2/writing.md)
     * [2](/writings/11.2/writing.md)
     * [4](/writings/11.4/writing.md)
+    * [6](/writings/11.6/writing.md)
