@@ -14,7 +14,7 @@ Dear Bob
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm writing this letter to share a movie called The Maze Runner `which I have watched` a few days `ago` and want to recommend it to you.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's a science fiction film that ~~this ~~ `tells of` a moving story about several young people`.` The leading man, called Thomas and his team are facing new challenges that the world is coming to the end `because` of the virus invasion, `and` they need to find the truth in the `escape` `using their wisdom`. The movie tells people that hope is everything, and more important, that we need courage like `theirs` to realize `our` dream. In addition, this is my favorite move. I hope you will enjoy it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's a science fiction film that ~~this~~ `tells of` a moving story about several young people`.` The leading man, called Thomas and his team are facing new challenges that the world is coming to the end `because` of the virus invasion, `and` they need to find the truth in the `escape` `using their wisdom`. The movie tells people that hope is everything, and more important, that we need courage like `theirs` to realize `our` dream. In addition, this is my favorite move. I hope you will enjoy it.
 
 Yours truly
 
