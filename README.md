@@ -25,3 +25,4 @@
     * [18](/writings/11.18/writing.md)
     * [20](/writings/11.20/writing.md)
     * [22](/writings/11.22/writing.md)
+    * [26](/writings/11.26/writing.md)
