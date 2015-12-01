@@ -27,3 +27,5 @@
     * [22](/writings/11.22/writing.md)
     * [26](/writings/11.26/writing.md)
     * [28](/writings/11.28/writing.md)
+* [December](/writings/12.1/writing.md)
+    * [1](/writings/12.1/writing.md)
