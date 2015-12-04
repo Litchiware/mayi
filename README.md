@@ -29,3 +29,4 @@
     * [28](/writings/11.28/writing.md)
 * [December](/writings/12.1/writing.md)
     * [1](/writings/12.1/writing.md)
+    * [2](/writings/12.2/writing.md)
