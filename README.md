@@ -30,4 +30,5 @@
 * [December](/writings/12.1/writing.md)
     * [1](/writings/12.1/writing.md)
     * [2](/writings/12.2/writing.md)
+    * [3](/writings/12.3/writing.md)
     * [6](/writings/12.6/writing.md)
