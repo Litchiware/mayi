@@ -32,3 +32,4 @@
     * [2](/writings/12.2/writing.md)
     * [3](/writings/12.3/writing.md)
     * [6](/writings/12.6/writing.md)
+    * [10](/writings/12.10/writing.md)
